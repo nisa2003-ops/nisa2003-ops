@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nisadu Nimsitha</h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welocme%20to%20my%20Github%20page&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h3 align="center">Frontend & backend developer skilled in HTML, CSS, JavaScript, SQL, Java, and Python</h3>
+<h2 align="center">Frontend & backend developer skilled in HTML, CSS, JavaScript, SQL, Java, and Python</h2>
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nisadu-nimsitha-512a24348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisadu-nimsitha" height="30" width="40" /></a>
+<a href="https://instagram.com/_nisadu03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nisadu03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
