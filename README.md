@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welocme%20to%20my%20Github%20page&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h2 align="center">Frontend & backend developer skilled in HTML, CSS, JavaScript, SQL, Java, and Python</h2>
+<h2 align="center">Building polished, purposeful software from AI-powered mobile apps and full-stack web experiences to DevOps pipelines and Machine </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
