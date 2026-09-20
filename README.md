@@ -11,36 +11,106 @@
 <a href="https://instagram.com/_nisadu03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nisadu03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 id="programming-languages">Programming languages:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript&amp;logoColor=007ACC" alt="TypeScript">
-<img src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" alt="Python">
-<img src="https://img.shields.io/badge/-PHP-000?&amp;logo=PHP" alt="PHP">
-<h3 id="frontend-development">Frontend development:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React">
-<img src="https://img.shields.io/badge/-Next.js-000?&amp;logo=Next.js" alt="Next.js">
-<img src="https://img.shields.io/badge/-Material--UI-000?&amp;logo=Material-UI" alt="Material-UI">
-<img src="https://img.shields.io/badge/-Chakra%20UI-000?&amp;logo=Chakra-UI" alt="Chakra UI">
-<img src="https://img.shields.io/badge/-CSS-000?&amp;logo=CSS3" alt="CSS">
-<img src="https://img.shields.io/badge/-HTML-000?&amp;logo=HTML5" alt="HTML">
-<h3 id="misc-tools">Misc tools:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub" alt="GitHub">
-<img src="https://img.shields.io/badge/-GitLab-000?&amp;logo=GitLab" alt="GitLab">
-<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
-<img src="https://img.shields.io/badge/-VS%20Code-000?&amp;logo=Visual-Studio-Code" alt="VS Code">
-<img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
-<h3 id="databases">Databases:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-MongoDB-000?&amp;logo=MongoDB" alt="MongoDB">
-<img src="https://img.shields.io/badge/-PostgreSQL-000?&amp;logo=PostgreSQL" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-MySQL-000?&amp;logo=MySQL" alt="MySQL">
-<h3 id="sre--devops">SRE &amp; DevOps:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-AWS-000?&amp;logo=Amazon-AWS" alt="AWS">
-<img src="https://img.shields.io/badge/-Kubernetes-000?&amp;logo=Kubernetes" alt="Kubernetes">
-<img src="https://img.shields.io/badge/-Nginx-000?&amp;logo=Nginx" alt="Nginx">
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="c">
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="java"> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="javascript"> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html5"> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css3">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript">
+  </a>
+</p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="bootstrap">
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
+  </a>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs"> 
+  </a>
+    <a href="https://spring.io/" target="_blank"> 
+      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="spring"> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="spring Boot"> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="kubernetes">
+  </a>
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="nginx"> 
+  </a> 
+</p>
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb"> 
+  </a> 
+</p>
+<h3 align="center">Testing</h3>
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="junit5"> 
+  </a> 
+</p>
+<h3 align="center">Version Control &amp; CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="git">
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="docker">
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="jenkins"> 
+  </a>
+</p>
+<h3 align="center">Preferred IDEs  &amp; Tools :</h3>
+<p align="center"> 
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&amp;logo=eclipse&amp;logoColor=white" alt="eclipse IDE"> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode"> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&amp;logo=jetbrains&amp;logoColor=white" alt="jetbrains">
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="postman">
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="virtualbox">
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
+  </a>
+</p>
+<hr>
