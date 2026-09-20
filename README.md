@@ -118,21 +118,23 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=nisa2003-ops&show_icons=true&theme=dark"
-  alt="Nisadu GitHub Stats"
-/>
+<p>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=nisa2003-ops&show_icons=true&theme=github_dark&hide_border=false&border_radius=8"
+    alt="GitHub Stats"
+  />
+</p>
 
-<br><br>
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=nisa2003-ops&theme=github-dark-blue&hide_border=false&border_radius=8"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=nisa2003-ops&theme=dark"
-  alt="Nisadu GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisa2003-ops&layout=compact&theme=dark"
-  alt="Nisadu Most Used Languages"
-/>
+<p>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nisa2003-ops&layout=compact&theme=github_dark&hide_border=false&border_radius=8&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
