@@ -116,4 +116,28 @@
   </a>
 </p>
 
+<h2>📊 GitHub Stats:</h2>
 
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nisa2003-ops&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    height="190"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=nisa2003-ops&theme=dark&hide_border=false"
+    height="190"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisa2003-ops&theme=dark&hide_border=false&layout=compact&langs_count=6"
+    height="190"
+    alt="Most Used Languages"
+  />
+</p>
