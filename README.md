@@ -115,4 +115,5 @@
     <img src="https://img.shields.io/badge/Nginx-20232A?style=for-the-badge&logo=nginx&logoColor=009639" />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisa2003-ops&show_icons=true&locale=en&layout=compact" alt="nisa2003-ops" /></p>
+
+
