@@ -26,6 +26,7 @@
 ### 👨‍💻 About Me
 
 I'm a Computer Science undergraduate at the University of Sri Jayewardenepura, focused on Cloud Infrastructure, DevOps, and Networking. I build hands-on projects involving containerized applications, CI/CD automation, Linux systems, infrastructure as code, and system monitoring. I'm currently strengthening my skills in cloud deployment, network operations, and reliable infrastructure through practical engineering projects.
+
 ---
 
 ## 🛠️ Technical Toolkit
