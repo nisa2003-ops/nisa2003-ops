@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nisadu Nimsitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Infrastructure+%26+DevOps;Linux+Networking+%26+Systems;Automated+CI%2FCD+Pipelines&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=38" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Infrastructure+%26+DevOps;Linux+Networking+%26+Systems&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=38" alt="Typing SVG" />
 </p>
 <p align="center">
   <em>Cloud Infrastructure · DevOps Engineering · Linux & Networking</em>
