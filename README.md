@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Nisadu Nimsitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Computer+Science+Undergraduate&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=38" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Infrastructure+%26+DevOps;Linux+Networking+%26+Systems;Automated+CI%2FCD+Pipelines&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=38" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <em>Computer Science Undergraduate at University of Sri Jayewardenepura · Cloud, DevOps & Distributed Systems</em>
+  <em>Cloud Infrastructure · DevOps Engineering · Linux & Networking</em>
 </p>
 
 <p align="center">
@@ -26,11 +25,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergraduate**: B.Sc. (Hons) in Computer Science at the **University of Sri Jayewardenepura**.
-- ☁️ **Specialization**: Cloud infrastructure, Kubernetes orchestration, CI/CD automation, and microservices.
-- 🚀 **Currently Building**: SRE automation platforms, Terraform IaC infrastructure, and containerized backend architectures.
-- 🤝 **Volunteering & Leadership**: Core Web Development Team Member for **[Sathsara Dahana 2026](https://www.sathsaradahana.live/)**.
-- 📜 **Certified**: Multi-badge AWS Academy Graduate (Cloud Foundations, Security & CI/CD Builder).
+Passionate about cloud infrastructure, DevOps, and networking. I specialize in designing and deploying resilient systems on AWS—containerizing microservices with Docker and Kubernetes, building automated CI/CD pipelines, configuring Linux networking, and implementing real-time telemetry to ensure systems remain fast, secure, and reliable under real-world workloads.
 
 ---
 
