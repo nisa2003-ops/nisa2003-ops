@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate about cloud infrastructure, DevOps, and networking. I specialize in designing and deploying resilient systems on AWS—containerizing microservices with Docker and Kubernetes, building automated CI/CD pipelines, configuring Linux networking, and implementing real-time telemetry to ensure systems remain fast, secure, and reliable under real-world workloads.
+Passionate about cloud infrastructure, DevOps, and networking. I specialize in designing and deploying resilient systems on AWS-containerizing microservices with Docker and Kubernetes, building automated CI/CD pipelines, configuring Linux networking, and implementing real-time telemetry to ensure systems remain fast, secure, and reliable under real-world workloads.
 
 ---
 
