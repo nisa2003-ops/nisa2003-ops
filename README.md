@@ -213,17 +213,6 @@ flowchart LR
 
 ---
 
-## ⚙️ Engineering Highlights
-
-- **Infrastructure as Code (IaC):** Modular Terraform configurations provisioning repeatable AWS topologies—custom VPCs, public subnets, route tables, security groups, and Amazon ECR repositories backed by S3 state management.
-- **Containerization & Orchestration:** Built multi-stage Dockerfiles and deployed multi-service architectures on AWS EC2 using lightweight `k3s` Kubernetes with internal ClusterIP routing and liveness/readiness health probes.
-- **Credential-Free CI/CD Automation:** Engineered GitHub Actions pipelines utilizing AWS STS OIDC federation to eliminate static access keys, integrating Trivy container vulnerability scanning into the deployment gate.
-- **Cloud Delivery Pipelines:** Built automated AWS CodePipeline and CodeBuild workflows triggered by GitHub webhooks to compile Java artifacts, package Docker images, and push to Amazon ECR.
-- **Telemetry & Monitoring:** Configured Prometheus scrape targets for RED metrics (Rate, Errors, Duration) and latency histograms, visualizing operational service telemetry with provisioned Grafana dashboards.
-- **Empirical Performance Benchmarking:** Designed and executed multi-stage k6 performance test suites simulating concurrent user ramp-up up to 100 VUs to measure throughput, error rates, and connection pool stability.
-
----
-
 ## 🔭 Currently Exploring
 
 - **Advanced Kubernetes & GitOps:** Ingress controllers, Helm charts, custom resource definitions (CRDs), and declarative delivery patterns (Argo CD concepts).
@@ -244,16 +233,6 @@ flowchart LR
 | **KodeKloud** | [Kubernetes Crash Course](https://learn.kodekloud.com/certificate/8a90819f-6656-4cc5-ba1a-1e0103bd7e66) · [Linux for Absolute Beginners](https://learn.kodekloud.com/certificate/16b70d88-49fa-45b6-87ff-315738e5ee4b) · *`GitOps Platform Eng (In Progress)`* |
 
 </div>
-
----
-
-## 🧠 Engineering Philosophy
-
-- **Automate Repetitive Infrastructure Tasks:** Eliminate manual server administration with declarative Infrastructure as Code and automated pipelines.
-- **Build Reproducible and Maintainable Systems:** Ensure environments can be destroyed and recreated reliably from version-controlled configurations.
-- **Design for Reliability and Scalability:** Implement defensive architecture, health probes, and connection pooling to withstand workload spikes.
-- **Monitor and Detect Failures Early:** Instrument systems with proactive telemetry and alerts before issues impact end users.
-- **Continuous Improvement Through Testing:** Validate changes through automated linting, unit tests, vulnerability scans, and load testing.
 
 ---
 
