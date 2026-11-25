@@ -3,11 +3,11 @@
   <h1>Hi 👋, I'm Nisadu Nimsitha</h1>
 
   <a href="https://github.com/nisa2003-ops">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Infrastructure+%26+DevOps;Linux+Systems+%26+Networking;Automating+Deployments+with+IaC;Containerization+%26+CI%2FCD+Pipelines&font=Fira+Code&center=true&width=620&height=45&color=58a6ff&vCenter=true&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Infrastructure+%26+DevOps;MLOps+%26+Model+Deployment;Linux+Systems+%26+Networking;Automating+Deployments+with+IaC+%26+CI%2FCD&font=Fira+Code&center=true&width=620&height=45&color=58a6ff&vCenter=true&size=20" alt="Typing SVG" />
   </a>
 
   <p>
-    <strong>Computer Science Undergraduate | Cloud Infrastructure, DevOps & Networking</strong><br>
+    <strong>Computer Science Undergraduate | Cloud, DevOps & MLOps</strong><br>
     <em>University of Sri Jayewardenepura, Sri Lanka</em>
   </p>
 
@@ -16,7 +16,11 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/nisadu-nimsitha-512a24348" target="_blank">
+    🟢 <strong>Open to DevOps / Cloud / MLOps internships</strong>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/nisadu-nimsitha" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:nisadu2003@gmail.com">
@@ -36,10 +40,10 @@
 
 ### 👨‍💻 Engineering Profile
 
-- ☁️ **Cloud & Infrastructure:** Hands-on designing cloud environments on **AWS**, managing infrastructure state with modular **Terraform (IaC)**, and container orchestration using **Docker** and lightweight **k3s/Kubernetes**. Automated provisioning of VPC networking, subnets, route tables, security groups, and container registries (Amazon ECR).
-- 🔄 **CI/CD & Automation:** Building automated delivery pipelines using **GitHub Actions** and **Jenkins**, paired with **Bash scripting** and **Git**. Implementing secure deployment workflows leveraging AWS IAM OIDC federation (eliminating long-lived static AWS access keys) and container vulnerability scanning with Trivy.
-- 🐧 **Systems & Networking:** Solid foundation in **Linux systems administration** (Amazon Linux 2023, Ubuntu, systemd service management, process lifecycle, SSH/SSM), core networking protocols (**TCP/IP**, **DNS**, **HTTP/HTTPS**, routing fundamentals, CIDR/VLSM subnetting), and reverse proxying with **Nginx**.
-- 📊 **Observability & Reliability:** Implementing telemetry configurations using **Prometheus** for metrics collection (RED metrics: rate, errors, duration) and **Grafana** for operational dashboards. Conducting automated load testing with **k6** to benchmark throughput, error rates, and latency under concurrency.
+- ☁️ **Cloud & IaC:** AWS (VPC, EC2, ECR, RDS, IAM) provisioned with modular Terraform; workloads on Docker and single-node k3s.
+- 🔄 **CI/CD & Security:** GitHub Actions, Jenkins and AWS CodePipeline, with OIDC-based AWS auth (no static keys) and Trivy image scanning.
+- 🐧 **Linux & Networking:** Amazon Linux and Ubuntu administration, systemd, Nginx, TCP/IP, DNS, CIDR/VLSM subnetting.
+- 📊 **Observability & MLOps:** Prometheus and Grafana (RED metrics), k6 load testing, MLflow experiment tracking.
 
 ---
 
@@ -49,15 +53,14 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Cloud Platforms** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-(Still_Learning)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure (Still Learning)" /> |
-| **Infrastructure as Code** | <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> |
+| **Cloud & IaC** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> |
 | **Containers & Orchestration** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" alt="k3s" /> |
-| **CI/CD & Automation** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> |
-| **Operating Systems & Networking** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Packet Tracer" /> |
-| **Monitoring & Observability** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> |
-| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| **CI/CD & Automation** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> |
+| **Systems & Networking** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Packet Tracer" /> |
+| **Monitoring** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
 | **Backend & Databases** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> |
-| **Machine Learning & MLOps** | <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" /> |
+| **ML & MLOps** | <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" /> |
 
 </div>
 
@@ -65,12 +68,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Highlights & Engineering Scope | Tech Stack | Links |
+| Project | Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| ☁️ **CloudOps Infrastructure Platform** | Automated cloud provisioning and monitoring platform. Implements modular **Terraform IaC** for AWS VPC infrastructure, multi-stage Docker containerization of a FastAPI service, **GitHub Actions OIDC** CI/CD (without static AWS secrets), Trivy vulnerability scanning, and telemetry via **Prometheus & Grafana**. | `Terraform` `AWS` `Docker` `GitHub Actions` `Prometheus` `Grafana` `FastAPI` | [Repository](https://github.com/nisa2003-ops/Cloudops-platform) |
-| 💼 **Lanka MicroJob** | Distributed job platform featuring five containerized Spring Boot domain microservices and a Spring Cloud API Gateway deployed on an **AWS EC2** host (**Amazon Linux 2023**) running a single-node **k3s Kubernetes** cluster. Features automated **AWS CodePipeline/CodeBuild/ECR** delivery, isolated **Amazon RDS PostgreSQL** with connection pooling, and multi-stage **k6 performance testing**. | `Spring Boot` `AWS EC2` `k3s` `Docker` `CodePipeline` `Amazon RDS` `k6` | [Repository](https://github.com/nisa2003-ops/Lanka-Microjob-V1) · [Live Demo](https://lanka-microjob.vercel.app/) · [Case Study](https://medium.com/@nisadu2003/from-docker-compose-to-kubernetes-on-aws-deploying-lanka-microjob-with-ci-cd-rds-and-load-6bfe6eea0be4) |
-| 🦟 **Dengue Risk MLOps** | End-to-end machine learning pipeline predicting regional dengue risk levels (`LOW`, `MEDIUM`, `HIGH`) from epidemiological and meteorological records. Features chronological train/validation splitting (13,150 training records) to help prevent temporal data leakage, **MLflow** experiment tracking across models, and asynchronous inference serving via **FastAPI** with automated **GitHub Actions** CI testing. | `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` `GitHub Actions` | [Repository](https://github.com/nisa2003-ops/Dengue-Risk-MLOps-1) |
-| 🎭 **Sathsara Dahana 2026** | Production web platform developed collaboratively for USJ's flagship cultural concert. Built with **Next.js**, **React**, and **Tailwind CSS**; contributions included an audition verification portal for real-time candidate status lookups by index number, an interactive HTML5 canvas terminal bootloader, and low-latency client rendering hosted on **Vercel**. | `Next.js` `React` `Tailwind CSS` `Canvas API` `Vercel` | [Live Site](https://www.sathsaradahana.live/) |
+| ☁️ **CloudOps Infrastructure Platform** | Terraform-provisioned AWS VPC, containerized FastAPI service, OIDC-based GitHub Actions CI/CD with no static AWS secrets, Trivy scanning, and Prometheus/Grafana telemetry. | `Terraform` `AWS` `Docker` `GitHub Actions` `Prometheus` `Grafana` `FastAPI` | [Repository](https://github.com/nisa2003-ops/Cloudops-platform) |
+| 💼 **Lanka MicroJob** | Five Spring Boot microservices behind a Spring Cloud API Gateway on a single-node k3s cluster (AWS EC2), with CodePipeline/CodeBuild/ECR delivery, RDS PostgreSQL, and k6 load testing (0% failures, 437 ms p95). | `Spring Boot` `AWS EC2` `k3s` `Docker` `CodePipeline` `Amazon RDS` `k6` | [Repository](https://github.com/nisa2003-ops/Lanka-Microjob-V1) · [Live Demo](https://lanka-microjob.vercel.app/) · [Case Study](https://medium.com/@nisadu2003/from-docker-compose-to-kubernetes-on-aws-deploying-lanka-microjob-with-ci-cd-rds-and-load-6bfe6eea0be4) |
+| 🦟 **Dengue Risk MLOps** | End-to-end pipeline predicting regional dengue risk (LOW / MEDIUM / HIGH), with chronological splits to avoid temporal leakage, MLflow experiment tracking, FastAPI inference, and GitHub Actions CI. | `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` `GitHub Actions` | [Repository](https://github.com/nisa2003-ops/Dengue-Risk-MLOps-1) |
+| 🎭 **Sathsara Dahana 2026** | Web platform for USJ's cultural concert, built as a team. My contributions: an audition status lookup portal and an interactive canvas terminal bootloader. | `Next.js` `React` `Tailwind CSS` `Canvas API` `Vercel` | [Live Site](https://www.sathsaradahana.live/) |
 
 <br>
 
@@ -215,10 +218,9 @@ flowchart LR
 
 ## 🔭 Currently Exploring
 
-- **Advanced Kubernetes & GitOps:** Ingress controllers, Helm charts, custom resource definitions (CRDs), and declarative delivery patterns (Argo CD concepts).
-- **Cloud Infrastructure:** Multi-cloud architectures (AWS & Azure), IAM least-privilege enforcement, automated secret rotation, and VPC security boundary hardening.
-- **Linux Systems Administration:** Deep dive into Linux kernel subsystems, systemd unit management, cgroups, process isolation, and network namespaces.
-- **Network Automation & Telemetry:** Enterprise network topologies, routing automation, OpenTelemetry metrics collection, and eBPF-based observability.
+- **Kubernetes & GitOps:** Helm, ingress controllers, and declarative delivery with Argo CD concepts.
+- **Linux Internals:** systemd unit management, cgroups, and network namespaces.
+- **Cloud Security:** IAM least-privilege design and VPC boundary hardening, with Azure as a second platform.
 
 ---
 
@@ -230,7 +232,7 @@ flowchart LR
 | :--- | :--- |
 | **AWS Academy** | [Cloud Foundations](https://www.credly.com/badges/acd4df5d-898e-49c9-8609-7b883f855d70/linked_in_profile) · [Cloud Security Foundations](https://www.credly.com/badges/0837b3eb-49ed-4e86-a210-a1973df227e6/public_url) · [Microservices & CI/CD Builder](https://www.credly.com/badges/3508f16c-bc97-4ca3-98d1-a0808731e073/public_url) · [Cloud Security Builder](https://www.credly.com/badges/69c7a723-5514-4544-b8e3-d28712da6f91/public_url) |
 | **Cisco Academy** | [Networking Basics](https://www.credly.com/badges/cf521714-f640-46cc-b75e-948206550a1d/public_url) · [Introduction to Packet Tracer](https://www.credly.com/badges/2d0be4e4-a562-4b2a-a779-1f2313a7a4e9/public_url) · *`Linux Essentials (In Progress)`* |
-| **KodeKloud** | [Kubernetes Crash Course](https://learn.kodekloud.com/certificate/8a90819f-6656-4cc5-ba1a-1e0103bd7e66) · [Linux for Absolute Beginners](https://learn.kodekloud.com/certificate/16b70d88-49fa-45b6-87ff-315738e5ee4b) · *`GitOps Platform Eng (In Progress)`* |
+| **KodeKloud** | [Kubernetes Crash Course](https://learn.kodekloud.com/certificate/8a90819f-6656-4cc5-ba1a-1e0103bd7e66) · [Linux for Absolute Beginners](https://learn.kodekloud.com/certificate/16b70d88-49fa-45b6-87ff-315738e5ee4b) · [GitOps Platform Engineering](https://www.virtualbadge.io/certificate-validator?credential=bbaee91b-1973-482c-8714-0d51c5293e85) |
 
 </div>
 
@@ -262,10 +264,10 @@ flowchart LR
 <div align="center">
   <p>
     <strong>Nisadu Nimsitha</strong> · <em>Computer Science Undergraduate</em><br>
-    <a href="https://www.linkedin.com/in/nisadu-nimsitha-512a24348">LinkedIn</a> • 
+    <strong>Open to DevOps / Cloud / MLOps internships</strong> — <a href="mailto:nisadu2003@gmail.com">get in touch</a><br>
+    <a href="https://www.linkedin.com/in/nisadu-nimsitha">LinkedIn</a> • 
     <a href="mailto:nisadu2003@gmail.com">Email</a> • 
     <a href="https://github.com/nisa2003-ops">GitHub</a> • 
     <a href="https://nisadu-nimsitha.vercel.app">Portfolio</a>
   </p>
-  <sub>Designed & maintained with care</sub>
 </div>
